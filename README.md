@@ -2,7 +2,7 @@
 
 # 👋Hi, I'm Mubashir
 
-Final-year Computer Science student and Full Stack Developer focused on building scalable web applications and backend systems. I am also actively learning AI/ML technologies, with a long-term goal of working in Artificial Intelligence and intelligent systems.
+Final-year Computer Science student and Full Stack Developer focused on building scalable web applications and backend systems.
 ---
 
 ## 🚀 Tech Stack
