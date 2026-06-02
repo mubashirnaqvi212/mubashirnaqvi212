@@ -18,7 +18,7 @@ I enjoy turning ideas into real-world products with clean UI, efficient APIs, an
 
 ---
 
-<h3>🚀 Things I code with</h3>
+<h3>Things I code with</h3>
 
 <p>
 
