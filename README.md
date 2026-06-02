@@ -13,7 +13,7 @@ I’m a final-year Computer Science student focused on building <b>scalable full
 </p>
 
 <p>
-I enjoy turning ideas into real-world products with clean UI, efficient APIs, and strong database design.
+I enjoy turning ideas into real world products with clean UI, efficient APIs, and strong database design.
 </p>
 
 ---
